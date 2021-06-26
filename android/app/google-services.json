@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49270299638",
+    "project_id": "chapo-ndengu",
+    "storage_bucket": "chapo-ndengu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49270299638:android:bda6293bddc6382ebac5d7",
+        "android_client_info": {
+          "package_name": "com.nerdherd.chapo_ndengu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49270299638-7d1bhefmsia8leu1dcim2h2a16t539fi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA6gYMhhxjvS8wNZUBAPgl8oisGuFb-nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49270299638-7d1bhefmsia8leu1dcim2h2a16t539fi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
